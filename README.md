@@ -1,6 +1,4 @@
-# Machine learning of large-scale multimodal brain imaging data reveals neural correlates of handedness 0.0BPublic
-
-
+# Machine learning of large-scale multimodal brain imaging data reveals neural correlates of handedness
 
 
 ## Requirements 
