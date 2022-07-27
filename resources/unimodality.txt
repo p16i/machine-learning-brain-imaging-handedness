@@ -1,0 +1,9 @@
+controlled_variables
+structure
+diffusion
+rfmri_component_amplitudes_25
+rfmri_full_correlation_25
+rfmri_partial_correlation_25
+rfmri_component_amplitudes_100
+rfmri_full_correlation_100
+rfmri_partial_correlation_100
