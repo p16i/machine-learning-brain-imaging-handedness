@@ -33,8 +33,3 @@ Remarks:
 |Figure ID-Importance-Compared| Compare performance of IC models and reference modle | hypothesis-testing.ipynb |
 |Test Set Prediction Score | Probablity of each sample being non-righ hander produced by models in nested cross-validation| dev-get-testset-handedness-score.ipynb (on cluster only) |
 |IC Importance Statistics| JSON file with statistics of each IC model| table-IC-performance-statistics.ipynb |
-
-
-
-## Acknowledgement
-...
